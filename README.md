@@ -21,7 +21,7 @@ The Daily Expenses Sharing Application is designed to help users track and share
 ## Setup and Installation
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/Sonugupta010/Daily-Expenses-Sharing-Application]
+   git clone [https://github.com/prasadneha22/Daily-Expenses-Sharing-Application.git]
    cd daily-expenses-sharing-app
 
 2. **Setup Database:
@@ -51,8 +51,8 @@ Create User: POST /users/createUser
 example data: 
 
       {
-        "email": "sonu.gupta@example.com",
-        "name": "Sonu Gupta",
+        "email": "neha.prasad@example.com",
+        "name": "Neha Prasad",
         "mobileNumber": "1234567890"
     }
 
